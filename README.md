@@ -18,6 +18,7 @@
 | 553 | [最优除法](https://leetcode-cn.com/problems/optimal-division/description/) | [C++](solutions/C++/553.最优除法.cpp) | medium |
 | 554 | [砖墙](https://leetcode-cn.com/problems/brick-wall/description/) | [C++](solutions/C++/554.砖墙.cpp) | medium |
 | 667 | [优美的排列 II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/description/) | [C++](solutions/C++/667.优美的排列-ii.cpp) | medium |
+| 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/description/) | [C++](solutions/C++/687.最长同值路径.cpp) | medium |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | [C++](solutions/C++/690.员工的重要性.cpp) | easy |
 | 735 | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/description/) | [C++](solutions/C++/735.行星碰撞.cpp) | medium |
 | 798 | [得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/description/) | [C++](solutions/C++/798.得分最高的最小轮调.cpp) | hard |
