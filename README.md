@@ -13,6 +13,7 @@
 | 274 | [H指数](https://leetcode-cn.com/problems/h-index/description/) | [C++](solutions/C++/274.h指数.cpp) | medium |
 | 290 | [单词规律](https://leetcode-cn.com/problems/word-pattern/description/) | [C++](solutions/C++/290.单词规律.cpp) | easy |
 | 304 | [二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/description/) | [C++](solutions/C++/304.二维区域和检索-矩阵不可变.cpp) | medium |
+| 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/) | [C++](solutions/C++/392.判断子序列.cpp) | easy |
 | 394 | [字符串解码](https://leetcode-cn.com/problems/decode-string/description/) | [C++](solutions/C++/394.字符串解码.cpp) | medium |
 | 434 | [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/description/) | [C++](solutions/C++/434.字符串中的单词数.cpp) | easy |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/) | [C++](solutions/C++/538.把二叉搜索树转换为累加树.cpp) | easy |
