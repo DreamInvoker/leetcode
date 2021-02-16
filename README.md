@@ -42,6 +42,7 @@
 | 1287 | [有序数组中出现次数超过25%的元素](https://leetcode-cn.com/problems/element-appearing-more-than-25-in-sorted-array/description/) | [C++](solutions/C++/1287.有序数组中出现次数超过-25-的元素.cpp) | easy |
 | 1290 | [二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [C++](solutions/C++/1290.二进制链表转整数.cpp) | easy |
 | 1296 | [划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/) | [C++](solutions/C++/1296.划分数组为连续数字的集合.cpp) | medium |
+| 1315 | [祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/description/) | [C++](solutions/C++/1315.祖父节点值为偶数的节点和.cpp) | medium |
 | 1394 | [找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array/description/) | [C++](solutions/C++/1394.找出数组中的幸运数.cpp) | easy |
 | 1414 | [和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/description/) | [C++](solutions/C++/1414.和为-k-的最少斐波那契数字数目.cpp) | medium |
 | 1572 | [矩阵对角线元素的和](https://leetcode-cn.com/problems/matrix-diagonal-sum/description/) | [C++](solutions/C++/1572.矩阵对角线元素的和.cpp) | easy |
