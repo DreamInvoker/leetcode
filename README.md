@@ -2,6 +2,7 @@
 
 | # | Title | Language | Difficulty |
 |:---:|:---:|:---:|:---:|
+| 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/description/) | [C++](solutions/C++/7.整数反转.cpp) | easy |
 | 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/description/) | [C++](solutions/C++/60.第k个排列.cpp) | hard |
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [C++](solutions/C++/82.删除排序链表中的重复元素-ii.cpp) | medium |
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/) | [C++](solutions/C++/92.反转链表-ii.cpp) | medium |
