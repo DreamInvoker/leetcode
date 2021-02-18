@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/) ![Language](https://img.shields.io/badge/language-C++-blue.svg)
 
-| # | Title | Solution | Difficulty |
+| # | Title | Solutions | Difficulty |
 |:---:|:---:|:---:|:---:|
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/description/) | [C++](solutions/C++/7.整数反转.cpp) | easy |
 | 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/description/) | [C++](solutions/C++/60.第k个排列.cpp) | hard |
