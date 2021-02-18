@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode.com/problemset/all/) ![Language](https://img.shields.io/badge/language-C++-blue.svg)
 
-| # | Title | Language | Difficulty |
+| # | Title | Solution | Difficulty |
 |:---:|:---:|:---:|:---:|
 | 7 | [整数反转](https://leetcode-cn.com/problems/reverse-integer/description/) | [C++](solutions/C++/7.整数反转.cpp) | easy |
 | 60 | [第k个排列](https://leetcode-cn.com/problems/permutation-sequence/description/) | [C++](solutions/C++/60.第k个排列.cpp) | hard |
@@ -23,6 +23,7 @@
 | 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/description/) | [C++](solutions/C++/687.最长同值路径.cpp) | medium |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | [C++](solutions/C++/690.员工的重要性.cpp) | easy |
 | 735 | [行星碰撞](https://leetcode-cn.com/problems/asteroid-collision/description/) | [C++](solutions/C++/735.行星碰撞.cpp) | medium |
+| 768 | [最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/description/) | [C++](solutions/C++/768.最多能完成排序的块-ii.cpp) | hard |
 | 798 | [得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/description/) | [C++](solutions/C++/798.得分最高的最小轮调.cpp) | hard |
 | 807 | [保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/description/) | [C++](solutions/C++/807.保持城市天际线.cpp) | medium |
 | 833 | [字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string/description/) | [C++](solutions/C++/833.字符串中的查找与替换.cpp) | medium |
